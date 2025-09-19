@@ -14,7 +14,7 @@ Check and report whether c == a
 
 ### **Verification of Sum**
 
-**Input:** Two integers $a, b$  
+**Input:** Two floats $a, b$  
 **Output:** A report indicating whether $c = a + b$ is equal to $a$  
 
 **Steps:**  
