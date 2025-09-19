@@ -22,11 +22,11 @@ Check and report whether c == a
 1. Read the value of $a$.
 2. Read the value of $b$.
 3. Compute $c \gets a + b$.
-4. If $c = a$, then
-     Report: *“c is equal to a.”*
-    Else
-     Report: *“c is not equal to a.”*
-5. End.
+4. If $c = a$, then  
+     Report: *“c is equal to a.”*  
+    Else  
+     Report: *“c is not equal to a.”*  
+5. End.  
 
 
 
