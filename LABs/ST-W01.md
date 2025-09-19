@@ -14,10 +14,10 @@ Check and report whether c == a
 
 ### **Verification of Sum**
 
-**Input:** Two integers $a, b$
-**Output:** A report indicating whether $c = a + b$ is equal to $a$
+**Input:** Two integers $a, b$  
+**Output:** A report indicating whether $c = a + b$ is equal to $a$  
 
-**Steps:**
+**Steps:**  
 
 1. Read the value of $a$.
 2. Read the value of $b$.
