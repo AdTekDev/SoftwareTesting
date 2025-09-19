@@ -4,6 +4,7 @@
 ## 01.01.
 Write a program in any programming language (C/C++, C#, Python, …) to implement the following pseudocode: 
 
+### Simple format  
 ```
 Input a
 Input b
@@ -11,8 +12,7 @@ Compute c = a + b
 Check and report whether c == a
 ```
 
-
-### **Verification of Sum**
+### Formal format
 
 **Input:** Two floats $a, b$  
 **Output:** A report indicating whether $c = a + b$ is equal to $a$  
