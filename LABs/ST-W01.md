@@ -11,6 +11,25 @@ Compute c = a + b
 Check and report whether c == a
 ```
 
+
+### **Verification of Sum**
+
+**Input:** Two integers $a, b$
+**Output:** A report indicating whether $c = a + b$ is equal to $a$
+
+**Steps:**
+
+1. Read the value of $a$.
+2. Read the value of $b$.
+3. Compute $c \gets a + b$.
+4. If $c = a$, then
+     Report: *“c is equal to a.”*
+    Else
+     Report: *“c is not equal to a.”*
+5. End.
+
+
+
 ## 01.02.
 
 Design  and  develop  a  program  in  a  language  of  your choice  to  solve  the  triangle problem defined as follows :   
