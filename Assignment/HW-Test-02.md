@@ -102,6 +102,8 @@ Your solution must demonstrate:
 * Data-driven testing
 * Clear separation between test logic and test data
 * Ability to load test data (JSON/CSV/YAML) and run all scenarios programmatically
+* Test Results
+* Bug Report
 
 ---
 
