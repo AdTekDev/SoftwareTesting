@@ -1,15 +1,6 @@
 
 # Test 2  
 
-Below is the **English version** of your assignment, rewritten cleanly and academically, following your required structure.
-
----
-
-# **Assignment — Probability Combination Using Sliding Windows**
-
-You are given a Python function that computes probability distributions of sliding windows of size *n* across multiple arrays. Based on this code, complete the following tasks:
-
----
 
 ## **1. (3.5 points) Design White-Box Test Cases Using Level-7 Coverage**
 
@@ -49,7 +40,10 @@ At least **five** Black-Box test cases must be designed.
 
 Write a Python test file using the **pytest** framework to implement **five unit test cases** based on the function:   
 
-**CODE-01**  
+**CODE-01— Probability Combination Using Sliding Windows**
+
+You are given a Python function that computes probability distributions of sliding windows of size *n* across multiple arrays. Based on this code, complete the following tasks:  
+
 ```python
 from collections import Counter
 
