@@ -5,7 +5,7 @@
 **Task:**
 You are required to design and execute a full functional test for the **Fahasa online bookstore** ([https://www.fahasa.com](https://www.fahasa.com)).
 
-### **Requirements:**
+## **Requirements:**
 
 1. **Create a Test Script**
 
@@ -55,6 +55,43 @@ You are required to design and execute a full functional test for the **Fahasa o
 * Students may use manual testing or automation tools (e.g., Selenium, Playwright, Cypress) depending on instructor guidance.
 * Ensure all test cases are reproducible and written clearly.
 
----
 
-Nếu bạn muốn, mình có thể **tạo luôn bộ test cases mẫu**, hoặc **viết bản automation bằng Selenium/Python/Playwright**.
+## **Submission Requirements**
+
+Students must submit the following items:
+
+1. **Test Script**
+
+   * Written test cases including:
+
+     * Test Case ID
+     * Test Objective
+     * Preconditions
+     * Test Steps
+     * Expected Results
+     * Test Data
+   * Format can be a table, document, or spreadsheet.
+
+2. **Test Report**
+
+   * Summary of testing execution:
+
+     * Passed / Failed test cases
+     * Defects found (if any)
+     * Observations and notes
+   * Report can be structured in any standard testing format.
+
+3. **Screenshots of Execution Results**
+
+   * Capture important steps, including:
+
+     * Search results
+     * Book detail pages
+     * Adding books to cart
+     * Shopping cart verification
+     * Checkout page
+   * Screenshots must be clear and labeled.
+
+4. **Submission Method**
+
+   * Upload all deliverables (test script, test report, images) to the class system/platform as instructed.
